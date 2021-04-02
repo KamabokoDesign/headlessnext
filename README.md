@@ -30,3 +30,13 @@
 1. You in fam
 
 ## Install the Wordpress API
+
+1. Install the `WPGraphQL` Wordpress Plugin & activate
+
+## Run the Next.js Project
+
+```
+npm run dev
+```
+
+## Add an .env file
