@@ -33,6 +33,8 @@
 
 1. Install the `WPGraphQL` Wordpress Plugin & activate
 
+The reason for favouring GraphQL is that it's faster than the REST API and GraphQL gives us the power and flexibility to return only the data we need. Using the WPGraphiQL plugins also allows us to both build our queries directly inside of our WordPress instance before moving them into Next.js. [Source](https://dev.to/kendalmintcode/configuring-wordpress-as-a-headless-cms-with-next-js-3p1o)
+
 ## Run the Next.js Project
 
 ```
